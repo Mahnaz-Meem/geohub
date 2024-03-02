@@ -85,3 +85,6 @@ nav:
     - API Reference:
           - geohub module: geohub.md
           - common module: common.md
+    - Labs:
+        -labs/lab_4.ipynb
+    
