@@ -81,6 +81,7 @@ nav:
     - Report Issues: https://github.com/mahnaz-meem/geohub/issues
     - Examples:
         - examples/intro.ipynb
+        - examples/lab_4.ipynb
     - API Reference:
           - geohub module: geohub.md
           - common module: common.md
