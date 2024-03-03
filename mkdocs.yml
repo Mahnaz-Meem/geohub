@@ -1,5 +1,5 @@
 site_name: geohub
-site_description: A python package created with some data and geospatial analysis skills
+site_description: A python package created with some data and geo spatial analysis skills
 site_author: mahnaz-meem
 site_url: https://mahnaz-meem.github.io/geohub
 repo_url: https://github.com/mahnaz-meem/geohub
@@ -86,11 +86,10 @@ nav:
           - geohub module: geohub.md
           - common module: common.md
 <<<<<<< HEAD
-    -labs:
-        - labs/lab_4.ipynb
-=======
-    - Labs:
-        -labs/lab_4.ipynb
-        
-    
+    -Labs:
+        - Labs/lab_4.ipynb
+
+    - name: Discover typos with codespell
+      run: codespell --skip="*.csv,*.geojson,*.json,*.js,*.html,*cff,./.git" --ignore-words-list="aci,hist,nd"
+
 >>>>>>> 42a5b955812daa150334f1433809a86330e05798
