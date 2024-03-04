@@ -80,8 +80,10 @@ nav:
     - Changelog: changelog.md
     - Report Issues: https://github.com/mahnaz-meem/geohub/issues
     - Examples:
-        - docs/examples/intro.ipynb
-        - docs/examples/lab_4.ipynb
+        - examples/intro.ipynb
+        - examples/lab_4.ipynb
     - API Reference:
           - geohub module: geohub.md
           - common module: common.md
+    - Labs:
+        - examples/lab_4.ipynb
