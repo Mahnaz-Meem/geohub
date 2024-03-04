@@ -3,3 +3,5 @@
 __author__ = """Mahnaz Meem"""
 __email__ = "mahnazsarkermeem@gmail.com"
 __version__ = "0.0.2"
+
+from .geohub import Map
