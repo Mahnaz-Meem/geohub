@@ -1,4 +1,2 @@
 """Main module."""
 import ipyleaflet
-
-
