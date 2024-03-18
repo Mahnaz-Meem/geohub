@@ -82,8 +82,10 @@ nav:
     - Examples:
         - examples/intro.ipynb
         - examples/lab_4.ipynb
+        - examples/lab_5.ipynb
     - API Reference:
           - geohub module: geohub.md
           - common module: common.md
     - Labs:
         - examples/lab_4.ipynb
+        - examples/lab_5.ipynb
