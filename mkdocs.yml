@@ -47,10 +47,10 @@ plugins:
     - mkdocs-jupyter:
           include_source: True
           ignore_h1_titles: True
-          execute: False
+          execute: True
           allow_errors: false
           ignore: ["conf.py"]
-          execute_ignore: ["labs/lab_4.ipynb", "labs/lab_5.ipynb"]
+          execute_ignore: ["examples/labs/lab_4.ipynb", "examples/labs/lab_5.ipynb"]
           
 markdown_extensions:
     - admonition
